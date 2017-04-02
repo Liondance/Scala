@@ -1,3 +1,4 @@
+# We don't need no generated files
 *.class
 *.log
 
@@ -15,6 +16,9 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+
+# We don't need no bulky things
+.metadata
 
 # The constant is
 change
